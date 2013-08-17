@@ -1,0 +1,12 @@
+python3@ubuntu13.04:
+python3-lxml
+python3-cssutils
+# missing: cssselect
+python3-chardet 
+python3-dateutil 
+python3-requests 
+python3-jinja2 
+python3-mako 
+python3-dnspython
+# missing: pydkim
+
